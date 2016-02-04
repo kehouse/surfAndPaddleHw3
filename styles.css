@@ -4,6 +4,7 @@
 
 h1 {
   margin: 0px;
+  padding: 0px 0px 8px 0px;
 }
 
 .navbar {
@@ -202,24 +203,6 @@ div.overlay3 {
 aside {
   width: 100%;
   color: #3434B5;
-  padding: 20px 0px 0px 65px;
-}
-
-aside img {
-  width: 21%;
-  position: relative;
-  height: 180px;
-}
-
-aside h3 {
-  width: 20%;
-  font-size: 16px;
-  display: inline-block;
-  vertical-align: bottom;
-  position: relative;
-  padding: 8px;
-  left: -4px;
-  top: -70px;
 }
 
 div.overlay4 {
@@ -231,4 +214,30 @@ div.overlay4 {
   margin: 0px;
   top: 1432px;
   left: 65px;
+}
+
+aside img {
+  width: 24.7%;
+  position: relative;
+  height: 215px;
+}
+
+aside h3 {
+  width: 23.1%;
+  font-size: 17px;
+  display: inline-block;
+  vertical-align: bottom;
+  position: relative;
+  padding: 8px;
+  left: -4px;
+  top: -75px;
+  font-weight: 900;
+}
+
+footer {
+  width: 100%;
+  height: 65px;
+  background-color: #3939D9;
+  position: relative;
+  top: -94px;
 }
