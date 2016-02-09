@@ -11,49 +11,48 @@ h1 {
   width: 100%;
 }
 
-nav img {
-  width: 3%;
-  position: absolute;
-  top: 2.1%;
-  left: 6%;
+header {
+  width: 100%;
+  background-image: url('../images/./Lakshadweep-1680.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  background-position-y: -175px;
+    a {
+        text-decoration: none;
+        color: #1C1C39;
+    }
+    p {
+      margin: 0px;
+      padding: 1.5% 0% 0% 10%;
+    }
 }
 
-nav p {
-  margin: 0px;
-  padding: 1.5% 0% 0% 10%;
+header img {
+  width: 3%;
+  position: absolute;
+  top: 2%;
+  left: 6%;
 }
 
 nav {
   font-size: 12px;
 }
 nav ul {
-  float: right;
   margin: 0;
-  padding: 0;
+  padding-left: 80%;
+  position: absolute;
+  top: 19px;
   li {
     display: inline;
-    float: left;
     margin: 0px;
+    padding: 10px;
   }
 }
 
 nav li {
   vertical-align: top;
   padding: 0px 45px 0px 0px;
-}
-
-nav a {
-  text-decoration: none;
-  color: #1C1C39;
-}
-
-header {
-  width: 100%;
-  background-image: url('../images/./Lakshadweep-1680.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 250px;
-  background-position-y: -175px;
 }
 
 .title {
@@ -77,8 +76,8 @@ header {
 
 div.overlay {
   background-color: #3939D9;
-  height: 250px;
+  height: 300px;
   opacity: 0.5;
   position: relative;
-  bottom: 29px;
+  bottom: 33px;
 }
