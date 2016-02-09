@@ -1,0 +1,432 @@
+* {
+  font-family: 'Lato', helvetica, sans-serif; }
+
+h1 {
+  margin: 0px;
+  padding: 0px 0px 8px 0px; }
+
+.navbar {
+  width: 100%; }
+
+nav img {
+  width: 3%;
+  position: absolute;
+  top: 2.1%;
+  left: 6%; }
+
+nav p {
+  margin: 0px;
+  padding: 1.5% 0% 0% 10%; }
+
+nav {
+  font-size: 12px; }
+
+nav ul {
+  float: right;
+  margin: 0;
+  padding: 0; }
+
+nav ul li {
+  display: inline;
+  float: left;
+  margin: 0px; }
+
+nav li {
+  vertical-align: top;
+  padding: 0px 45px 0px 0px; }
+
+nav a {
+  text-decoration: none;
+  color: #1C1C39; }
+
+header {
+  width: 100%;
+  background-image: url("../images/./Lakshadweep-1680.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 250px;
+  background-position-y: -175px; }
+
+.title {
+  margin: 0;
+  font-size: 2em;
+  color: #FFF;
+  position: relative;
+  top: -202px;
+  left: 17%; }
+
+.under-title {
+  margin: 0;
+  font-size: 18px;
+  color: #070748;
+  position: relative;
+  top: -238px;
+  left: 36%;
+  font-weight: 100; }
+
+div.overlay {
+  background-color: #3939D9;
+  height: 250px;
+  opacity: 0.5;
+  position: relative;
+  bottom: 29px; }
+
+.container {
+  width: 100%;
+  margin: 0px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 10px 20px 40px 110px; }
+
+.left-side {
+  width: 45%;
+  display: inline-block;
+  vertical-align: top; }
+
+h1.container {
+  color: #070748; }
+
+h2 {
+  color: #343477;
+  font-size: 20px;
+  border-left: 2px solid #343477;
+  padding-left: 25px; }
+
+.right-side {
+  width: 20%;
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 4.5%; }
+
+#biopic {
+  margin: 0px; }
+
+section .bio-image img {
+  width: 100%;
+  border-radius: 100%;
+  margin: 0px;
+  padding-bottom: 4%; }
+
+.bio-image {
+  width: 42%;
+  margin: 0 auto;
+  padding-top: 15%; }
+
+div.overlay2 {
+  background-color: #4545B5;
+  border-radius: 100%;
+  width: 8.5%;
+  opacity: 0.5;
+  position: absolute;
+  height: 125px;
+  margin: 0px;
+  top: 286px;
+  left: 647px; }
+
+.social {
+  font-size: 10px;
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 30px; }
+
+.social a {
+  text-decoration: none;
+  color: #626271;
+  padding: 5.5px; }
+
+section .ad img {
+  width: 100%;
+  margin: 0px;
+  padding-bottom: 4%;
+  padding-top: 2%; }
+
+.ad {
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 15%; }
+
+.ad a {
+  text-decoration: underline;
+  color: #626271;
+  padding-left: 131px; }
+
+.ad {
+  font-size: 10px; }
+
+.popular-tagline {
+  width: 100%;
+  display: inline-block;
+  vertical-align: top;
+  color: #3434B5;
+  padding: 0px 0px 0px 290px; }
+
+aside {
+  width: 100%;
+  color: #3434B5; }
+
+aside img {
+  width: 24.7%;
+  position: relative;
+  height: 215px; }
+
+aside h3 {
+  width: 23.1%;
+  font-size: 17px;
+  display: inline-block;
+  vertical-align: bottom;
+  position: relative;
+  padding: 8px;
+  left: -4px;
+  top: -75px;
+  font-weight: 900; }
+
+footer {
+  width: 100%;
+  height: 65px;
+  background-color: #3939D9;
+  position: relative;
+  top: -94px; }
+
+/* {
+  font-family: 'Lato', helvetica, sans-serif;
+}
+
+h1 {
+  margin: 0px;
+  padding: 0px 0px 8px 0px;
+}
+
+.navbar {
+  width: 100%;
+}
+
+nav img {
+  width: 3%;
+  position: absolute;
+  top: 2.1%;
+  left: 6%;
+}
+
+nav p {
+  margin: 0px;
+  padding: 1.5% 0% 0% 10%;
+}
+
+nav {
+  font-size: 12px;
+}
+nav ul {
+  float: right;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  float: left;
+  margin: 0px;
+}
+nav li {
+  vertical-align: top;
+  padding: 0px 45px 0px 0px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #1C1C39;
+}
+
+header {
+  width: 100%;
+  background-image: url('../images/./Lakshadweep-1680.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 250px;
+  background-position-y: -175px;
+}
+
+.title {
+  margin: 0;
+  font-size: 2em;
+  color: #FFF;
+  position: relative;
+  top: -202px;
+  left: 17%;
+}
+
+.under-title {
+  margin: 0;
+  font-size: 18px;
+  color: #070748;
+  position: relative;
+  top: -238px;
+  left: 36%;
+  font-weight: 100;
+}
+
+div.overlay {
+  background-color: #3939D9;
+  height: 250px;
+  opacity: 0.5;
+  position: relative;
+  bottom: 29px;
+}
+
+.container {
+  width: 100%;
+  margin: 0px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 10px 20px 40px 110px;
+}
+
+.left-side {
+  width: 45%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+h1.container {
+  color: #070748;
+}
+
+h2 {
+  color: #343477;
+  font-size: 20px;
+  border-left: 2px solid #343477;
+  padding-left: 25px;
+}
+
+.right-side {
+  width: 20%;
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 4.5%;
+
+}
+
+#biopic {
+  margin: 0px;
+}
+
+section .bio-image img {
+  width: 100%;
+  border-radius: 100%;
+  margin: 0px;
+  padding-bottom: 4%;
+}
+
+.bio-image {
+  width: 42%;
+  margin: 0 auto;
+  padding-top: 15%;
+}
+
+div.overlay2 {
+  background-color: #4545B5;
+  border-radius: 100%;
+  width: 8.5%;
+  opacity: 0.5;
+  position: absolute;
+  height: 125px;
+  margin: 0px;
+  top: 286px;
+  left: 647px;
+}
+
+.social {
+  font-size: 10px;
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 30px;
+}
+
+.social a {
+  text-decoration: none;
+  color: #626271;
+  padding: 5.5px;
+}
+
+section .ad img {
+  width: 100%;
+  margin: 0px;
+  padding-bottom: 4%;
+  padding-top: 2%;
+}
+
+.ad {
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 15%;
+}
+
+.ad a {
+  text-decoration: underline;
+  color: #626271;
+  padding-left: 131px;
+}
+
+.ad {
+  font-size: 10px;
+}
+
+div.overlay3 {
+  background-color: #4545B5;
+  width: 20%;
+  opacity: 0.5;
+  position: absolute;
+  height: 135px;
+  margin: 0px;
+  top: 495px;
+  left: 591px;
+}
+
+.popular-tagline {
+  width: 100%;
+  display: inline-block;
+  vertical-align: top;
+  color: #3434B5;
+  padding: 0px 0px 0px 290px;
+}
+
+div#overlay4 {
+  background-color: #4545B5;
+  width: 21%;
+  opacity: 0.5;
+  position: absolute;
+  height: 180px;
+  margin: 0px;
+  top: 1432px;
+  left: 65px;
+}
+
+aside {
+  width: 100%;
+  color: #3434B5;
+}
+
+aside img {
+  width: 24.7%;
+  position: relative;
+  height: 215px;
+}
+
+aside h3 {
+  width: 23.1%;
+  font-size: 17px;
+  display: inline-block;
+  vertical-align: bottom;
+  position: relative;
+  padding: 8px;
+  left: -4px;
+  top: -75px;
+  font-weight: 900;
+}
+
+footer {
+  width: 100%;
+  height: 65px;
+  background-color: #3939D9;
+  position: relative;
+  top: -94px;
+}*/

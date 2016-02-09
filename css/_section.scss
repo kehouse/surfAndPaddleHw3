@@ -1,0 +1,29 @@
+
+.popular-tagline {
+  width: 100%;
+  display: inline-block;
+  vertical-align: top;
+  color: #3434B5;
+  padding: 0px 0px 0px 290px;
+}
+
+aside {
+  width: 100%;
+  color: #3434B5;
+    img {
+      width: 24.7%;
+      position: relative;
+      height: 215px;
+    }
+    h3 {
+      width: 23.1%;
+      font-size: 17px;
+      display: inline-block;
+      vertical-align: bottom;
+      position: relative;
+      padding: 8px;
+      left: -4px;
+      top: -75px;
+      font-weight: 900;
+    }
+}

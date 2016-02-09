@@ -200,12 +200,7 @@ div.overlay3 {
   padding: 0px 0px 0px 290px;
 }
 
-aside {
-  width: 100%;
-  color: #3434B5;
-}
-
-div.overlay4 {
+div#overlay4 {
   background-color: #4545B5;
   width: 21%;
   opacity: 0.5;
@@ -214,6 +209,11 @@ div.overlay4 {
   margin: 0px;
   top: 1432px;
   left: 65px;
+}
+
+aside {
+  width: 100%;
+  color: #3434B5;
 }
 
 aside img {

@@ -1,0 +1,84 @@
+* {
+  font-family: 'Lato', helvetica, sans-serif;
+}
+
+h1 {
+  margin: 0px;
+  padding: 0px 0px 8px 0px;
+}
+
+.navbar {
+  width: 100%;
+}
+
+nav img {
+  width: 3%;
+  position: absolute;
+  top: 2.1%;
+  left: 6%;
+}
+
+nav p {
+  margin: 0px;
+  padding: 1.5% 0% 0% 10%;
+}
+
+nav {
+  font-size: 12px;
+}
+nav ul {
+  float: right;
+  margin: 0;
+  padding: 0;
+  li {
+    display: inline;
+    float: left;
+    margin: 0px;
+  }
+}
+
+nav li {
+  vertical-align: top;
+  padding: 0px 45px 0px 0px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #1C1C39;
+}
+
+header {
+  width: 100%;
+  background-image: url('../images/./Lakshadweep-1680.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 250px;
+  background-position-y: -175px;
+}
+
+.title {
+  margin: 0;
+  font-size: 2em;
+  color: #FFF;
+  position: relative;
+  top: -202px;
+  left: 17%;
+}
+
+.under-title {
+  margin: 0;
+  font-size: 18px;
+  color: #070748;
+  position: relative;
+  top: -238px;
+  left: 36%;
+  font-weight: 100;
+}
+
+div.overlay {
+  background-color: #3939D9;
+  height: 250px;
+  opacity: 0.5;
+  position: relative;
+  bottom: 29px;
+}

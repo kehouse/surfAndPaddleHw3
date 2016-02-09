@@ -1,0 +1,81 @@
+
+.container {
+  width: 100%;
+  margin: 0px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 10px 20px 40px 110px;
+}
+
+.left-side {
+  width: 45%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+h1.container {
+  color: #070748;
+}
+
+h2 {
+  color: #343477;
+  font-size: 20px;
+  border-left: 2px solid #343477;
+  padding-left: 25px;
+}
+
+.right-side {
+  width: 20%;
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 4.5%;
+
+}
+
+#biopic {
+  margin: 0px;
+}
+
+section .bio-image img {
+  width: 100%;
+  border-radius: 100%;
+  margin: 0px;
+  padding-bottom: 4%;
+}
+
+.bio-image {
+  width: 42%;
+  margin: 0 auto;
+  padding-top: 15%;
+}
+
+.social {
+  font-size: 10px;
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 30px;
+    a {
+      text-decoration: none;
+      color: #626271;
+      padding: 5.5px;
+    }
+}
+
+section .ad img {
+  width: 100%;
+  margin: 0px;
+  padding-bottom: 4%;
+  padding-top: 2%;
+}
+
+.ad {
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 15%;
+  font-size: 10px;
+    a {
+      text-decoration: underline;
+      color: #626271;
+      padding-left: 131px;
+    }
+}
